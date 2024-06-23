@@ -1,5 +1,5 @@
 <div align = "center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&size=18&duration=4000&pause=1000&color=00D200&center=true&vCenter=true&random=false&width=435&lines=Welcome+BlackCat's+Github;I'm+Pentester+%26+System+Security+Engineer;I+Analysis+Operating+System+Kernel" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nanum+Gothic&size=18&duration=4000&pause=1000&color=00C000&center=true&vCenter=true&random=false&width=435&lines=Welcome+Blackcat's+Github;I'm+Pentester+%26+System+Security+Engineer;I+Analyze+the+Operating+System+Kernel" alt="Typing SVG" /></a>
 <h2>Tech Stack</h2><br>
 <h3>Programming</h3>
   <img src="https://img.shields.io/badge/C%20Language-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
