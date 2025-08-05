@@ -1,5 +1,4 @@
 <div align = "center">
-<h2>Tech Stack</h2><br>
 <h3>Programming</h3>
   <img src="https://img.shields.io/badge/C%20Language-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
